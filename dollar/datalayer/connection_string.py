@@ -1,0 +1,1 @@
+dbpath= '/root/dollar/dollar_persistance/mydatabase.db'
