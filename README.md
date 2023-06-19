@@ -21,7 +21,8 @@
   </p>
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/Merkousha/realdollar/total) ![Contributors](https://img.shields.io/github/contributors/Merkousha/realdollar?color=dark-green) ![Issues](https://img.shields.io/github/issues/Merkousha/realdollar) ![License](https://img.shields.io/github/license/Merkousha/realdollar) 
+![Downloads](https://img.shields.io/github/downloads/Merkousha/realdollar/total) ![Contributors](https://img.shields.io/github/contributors/Merkousha/realdollar?color=dark-green) ![Issues](https://img.shields.io/github/issues/Merkousha/realdollar) ![License](https://img.shields.io/github/license/Merkousha/realdollar)[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
+ 
 
 ## Table Of Contents
 
